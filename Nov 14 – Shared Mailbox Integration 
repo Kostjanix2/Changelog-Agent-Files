@@ -4,5 +4,14 @@ Dieses Release ermöglicht das Verbinden eines geteilten Postfachs im System.
 
 - [Geteiltes Postfach verbinden](https://linear.app/melibo/issue/ENG-4471): Es ist jetzt möglich, ein geteiltes Postfach zu integrieren. [Dingo](https://github.com/thinking-tech/Dingo/)
 
+🐞 **Bugfixes**
+
+- [Chatbot Config Cache cannot be parsed](https://linear.app/melibo/issue/ENG-4463): Behebt ein Problem beim Parsen des Chatbot Cache Werts für bestimmte Schlüssel. [Zoo Widget](https://github.com/thinking-tech/zoo-widget/)
+
+🛠️ **Improvements**
+
+- [Knowledge Hub bei Mails](https://linear.app/melibo/issue/ENG-3389): Überarbeitete Nutzung von E-Mails im Knowledge Hub – statt der kompletten E-Mail wird nun eine Zusammenfassung verwendet, um bessere Ergebnisse zu erzielen. [Zoo Widget](https://github.com/thinking-tech/zoo-widget/)
+
 ## Repositories im heutigen Release
 - https://github.com/thinking-tech/Dingo/
+- https://github.com/thinking-tech/zoo-widget/
