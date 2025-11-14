@@ -6,12 +6,15 @@ Nov 14 – Chatbot Cache Knowledge Hub
 
 ## Betroffenes Repository
 - **Repository:** https://github.com/thinking-tech/zoo-widget/
+- **Repository:** https://github.com/thinking-tech/Dingo/
 
 ---
 
 ## 🚀 Neue Features
 
 *(Keine neuen Features in diesem Release)*
+
+- [Geteiltes Postfach verbinden](https://linear.app/melibo/issue/ENG-4471): Kunden wollen ein geteiltes Postfach verbinden können.
 
 ---
 
@@ -37,6 +40,4 @@ Nov 14 – Chatbot Cache Knowledge Hub
 - Dieses Release betrifft das Repository: https://github.com/thinking-tech/zoo-widget/
 - Alle unten aufgeführten Tickets werden durch ein Release dieses Repositories abgedeckt.
 
----
-
-Benötigtes Repository: https://github.com/thinking-tech/zoo-widget/
+- [Geteiltes Postfach verbinden](https://linear.app/melibo/issue/ENG-4471): https://github.com/thinking-tech/Dingo/
