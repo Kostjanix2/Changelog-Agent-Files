@@ -1,0 +1,8 @@
+Dieses Release ermöglicht das Verbinden eines geteilten Postfachs im System.
+
+🚀 **Neue Features**
+
+- [Geteiltes Postfach verbinden](https://linear.app/melibo/issue/ENG-4471): Es ist jetzt möglich, ein geteiltes Postfach zu integrieren. [Dingo](https://github.com/thinking-tech/Dingo/)
+
+## Repositories im heutigen Release
+- https://github.com/thinking-tech/Dingo/
