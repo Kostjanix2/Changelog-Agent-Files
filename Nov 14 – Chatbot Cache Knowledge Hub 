@@ -1,4 +1,3 @@
-```md
 # Release Notes
 
 Nov 14 – Chatbot Cache Knowledge Hub
@@ -7,13 +6,14 @@ Nov 14 – Chatbot Cache Knowledge Hub
 
 ## Betroffenes Repository
 - **Repository:** https://github.com/thinking-tech/zoo-widget/
-- **Repository:** https://github.com/thinking-tech/Dingo/
 
 ---
 
 ## 🚀 Neue Features
 
-- [Geteiltes Postfach verbinden](https://linear.app/melibo/issue/ENG-4471): Kunden wollen ein geteiltes Postfach verbinden können. [https://github.com/thinking-tech/Dingo/]
+*(Keine neuen Features in diesem Release)*
+
+- [Geteiltes Postfach verbinden](https://linear.app/melibo/issue/ENG-4471): Kunden können nun ein geteiltes Postfach verbinden. (Repository: https://github.com/thinking-tech/Dingo/)
 
 ---
 
@@ -36,24 +36,11 @@ Nov 14 – Chatbot Cache Knowledge Hub
 ---
 
 ## Zuordnung der Tickets zum Repository
-- Dieses Release betrifft die Repositories: 
-  - https://github.com/thinking-tech/zoo-widget/
-  - https://github.com/thinking-tech/Dingo/
-- Alle unten aufgeführten Tickets werden durch ein Release eines dieser Repositories abgedeckt.
+- Dieses Release betrifft das Repository: https://github.com/thinking-tech/zoo-widget/
+- Alle unten aufgeführten Tickets werden durch ein Release dieses Repositories abgedeckt.
 
 ---
 
-## Lineare Issues nach Kategorie
-
-### 🚀 Neue Features
-- **Geteiltes Postfach verbinden**: Kunden wollen ein geteiltes Postfach verbinden können. [https://github.com/thinking-tech/Dingo/]
-
-### 💡 Verbesserungen
-- **Knowledge Hub bei Mails**: Ergebnisse der Knowledge Hub wurden verbessert, indem bei E-Mail-Anfragen eine Zusammenfassung genutzt wird. [https://github.com/thinking-tech/zoo-widget/]
-
-### 🐞 Fehlerbehebungen
-- **Chatbot Config Cache kann nicht mehr gelesen werden**: Der Chatbot-Cache-Wert für einen bestimmten Schlüssel konnte nicht verarbeitet werden. [https://github.com/thinking-tech/zoo-widget/]
-
-### ⚙️ Technische Änderungen
-*(Keine technischen Änderungen in diesem Release)*
-```
+## Repositories im heutigen Release
+- https://github.com/thinking-tech/zoo-widget/
+- https://github.com/thinking-tech/Dingo/
