@@ -1,0 +1,13 @@
+# Changelog – Nov 14 – Chatbot Cache Knowledge Hub
+
+Dieses Release konzentriert sich auf Verbesserungen im Chatbot-Konfigurations-Cache und eine optimierte Nutzung des Knowledge Hub bei eingehenden E-Mails.
+
+---
+
+## 💡 Verbesserungen
+
+- [Knowledge Hub bei Mails](https://linear.app/melibo/issue/ENG-3389): Bei der Verarbeitung von E-Mails im Knowledge Hub wird ab sofort eine Zusammenfassung verwendet, um relevantere Suchergebnisse zu liefern.
+
+## 🐞 Fehlerbehebungen
+
+- [Chatbot Config Cache kann nicht gelesen werden](https://linear.app/melibo/issue/ENG-4463): Das Problem mit dem fehlerhaften Parsen vom Cachewert im Chatbot Konfigurations-Cache wurde behoben.
